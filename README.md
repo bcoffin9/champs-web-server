@@ -2,6 +2,18 @@
 
 ## Completed from Computer Networking: A Top-Down Approach 8th Edition
 
+### How to use
+
+- Run the `server.py` locally
+- Open a browser and navigate to your localhost:12000
+- You can then test the server using the following format:
+  `localhost:12000/champions/<league name>?&year=<year name>`
+  - The following leagues are available:
+    - Bundesliga
+    - MLB, MLS, NBA, NCAAF, NFL, NHL
+    - Premier League (English top-flight soccer/football)
+    - UEFA Champions League
+
 ---
 
 ## Passing Criteria
